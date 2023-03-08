@@ -1,4 +1,4 @@
-# guia-15-git
+﻿# guia-15-git
 hola a todos (maxi)
 
 agregando comentario (Andrea)
@@ -17,3 +17,6 @@ buenas!! (Bruno)
 
 
 probando commit desde repo local (Andrea)
+
+
+hace calor y git esta dificil xd (gerardo)
