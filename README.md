@@ -1,6 +1,5 @@
 # guia-15-git
-
-hola a t  todos
+hola a todos (maxi)
 
 agregando comentario (Andrea)
 hola , como estan?
@@ -14,4 +13,4 @@ hola gente(Gerardo)
 hola gente(maxi)
 
 vine a el tuto de jpa (Aldo)
-
+buenas!! (Bruno)
