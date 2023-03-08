@@ -14,3 +14,6 @@ hola gente(maxi)
 
 vine a el tuto de jpa (Aldo)
 buenas!! (Bruno)
+
+
+probando commit desde repo local (Andrea)
