@@ -8,3 +8,9 @@ Buenas!! (Bruno)
 System.out.println("El creador del repositorio es gay");
 
 ayer fue mi cumpleaños y estoy detonado =S
+
+
+hola gente(Gerardo)
+
+
+
