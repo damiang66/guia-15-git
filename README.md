@@ -1,22 +1,24 @@
+﻿<<<<<<< HEAD
 ﻿# guia-15-git
+=======
+# guia-15-git
+
+hola a t  todos
+>>>>>>> de1a5b50473ef73cc2a1d168a185f8710d1f9251
 hola a todos (maxi)
 
-agregando comentario (Andrea)
-hola , como estan?
-Buenas!! (Bruno)
-System.out.println("El creador del repositorio es gay");
-
-ayer fue mi cumpleaños y estoy detonado =S
-
-
-hola gente(Gerardo)
-hola gente(maxi)
-
-vine a el tuto de jpa (Aldo)
 buenas!! (Bruno)
+<<<<<<< HEAD
 
 
 probando commit desde repo local (Andrea)
 
 
 hace calor y git esta dificil xd (gerardo)
+=======
+hola  a todos (damian)
+branch damian-a
+>>>>>>> de1a5b50473ef73cc2a1d168a185f8710d1f9251
+
+
+probando de nuevo(Gerardo) 
