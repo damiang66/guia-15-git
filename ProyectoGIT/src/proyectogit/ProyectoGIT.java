@@ -18,5 +18,10 @@ public class ProyectoGIT {
         // TODO code application logic here
         
     }
+
+    public class probando(){
+            
+        }
+
     
 }
