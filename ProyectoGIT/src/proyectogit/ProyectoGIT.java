@@ -17,11 +17,9 @@ public class ProyectoGIT {
     public static void main(String[] args) {
         // TODO code application logic here
         
-    }
-
-    public class probando(){
-            
-        }
-
     
+            private String perro;
+        
+
+
 }
